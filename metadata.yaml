@@ -1,0 +1,41 @@
+_repo: Ballad-Book_7935
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Bates, Katharine Lee
+    alias: Bates, Katherine Lee
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '2578'
+    url: http://www.gutenberg.org/2009/agents/2578
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads, English -- England -- Texts'
+- !lcsh 'Ballads, Scots -- Scotland -- Texts'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Introduction -- Ballads of superstition: The wee wee man. Tamlane.
+  True Thomas. The Elfin knight. Lady Isobel and the elf-knight. Tom Thumbe. Kempion.
+  Alison Gross. The wife of Usher''s Well. A lyke-wake dirge. Proud Lady Margaret.
+  The twa sisters o'' Binnorie. The demon lover. Riddles wisely expounded -- Ballads
+  of tradition: Sir Patrick Spens. The battle of Otterburne. The hunting of the Cheviot.
+  Edom o'' Gordon. Kinmont Willie. King John and the Abbot of Canterbury. Robin Hood
+  rescuing the widow''s three sons. Robin Hood and Allin a Dale. Robin Hood''s death
+  and burial -- Romantic and domestic ballads: Annie of Lochroyan. Lord Thomas and
+  Fair Annet. The banks o'' Yarrow. The Douglas tragedy. Fine flowers i'' the valley.
+  The gay goss-hawk. Young Redin. Willie and May Margaret. Young Beichan. Gilderoy.
+  Bonny Barbara Allan. The gardener. Etin the forester. Lamkin. Hugh of Lincoln. Fair
+  Annie. The Laird o'' Drum. Lizie Lindsay. Katharine Janfarie. Glenlogie. Get up
+  and bar the door. The Lawlands o'' Holland. The twa corbies. Helen of Kirconnell.
+  Waly waly. Lord Ronald. Edward, Edward.'
+title: Ballad Book
+url: http://www.gutenberg.org/ebooks/7935
